@@ -2,13 +2,13 @@
 [![GitHub license](https://img.shields.io/github/license/startertemp/nextjs-hardhat)](https://github.com/startertemp/nextjs-hardhat/blob/master/LICENSE)
 ![Discord](https://img.shields.io/discord/872804414107312158)
 --
-![Twitter Follow](https://img.shields.io/twitter/follow/yanukadeneth99?style=social)
-![GitHub followers](https://img.shields.io/github/followers/yanukadeneth99?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/furqanhameed558?style=social)
+![GitHub followers](https://img.shields.io/github/followers/furqan558?style=social)
 --
 
-# Next JS, Solidity JavaScript Starter Template
+<!-- # Next JS, Solidity JavaScript Starter Template
 
-This is a starter template which you can use containing multiple installed libraries for quick setup. This template uses `npm` for installation.
+This is a starter template which you can use containing multiple installed libraries for quick setup. This template uses `npm` for installation. -->
 
 ## Installation
 
